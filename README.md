@@ -2,7 +2,7 @@
 Chapter 3 code_Project_67 The second part 2 of "The Arduino World Book" code_Project_67
  <p>
  <a href='https://mobile.twitter.com/farkadadnan'>
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lux_api?label=%40lux_api&style=social" alt='Twitter' align="center"/>
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/farkadadnan?label=%40farkadadnan&style=social" alt='Twitter' align="center"/>
     </a>
 </p>
 
