@@ -1,7 +1,7 @@
 # Project_67
 Chapter 3 code_Project_67 The second part 2 of "The Arduino World Book" code_Project_67
  <p>
- <a href='https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fpublish.twitter.com%2F&ref_src=twsrc%5Etfw&screen_name=lux_api&tw_p=followbutton'>
+ <a href='https://mobile.twitter.com/farkadadnan'>
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/lux_api?label=%40lux_api&style=social" alt='Twitter' align="center"/>
     </a>
 </p>
